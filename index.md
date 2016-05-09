@@ -1,3 +1,7 @@
+---
+layout: default
+title: Drink Up
+---
 
 # Drink up
 
@@ -84,20 +88,17 @@ Write one function that answers these three questions.
 
 ### Who?
 
-Write new functions that answer these three questions.
+Write new function(s) that answer these three questions.
 
 * Who drank the least coffee on Monday?
 * Who drank the most tea on Tuesday?
 * Who drank the least water on Wednesday?
 
-### All Week Long
+### How much for a person?
 
 * How many coffees did Lesego drink on Monday?
 * How many teas did Brenda drink on Tuesday?
 * How many waters did Mdu drink on Wednesday?
-* Who drank the most coffee during the whole week?
-* Who drank the least tea during the whole week?
-* Who drank the most water during the whole week?
 
 ## The Sequel: Thursday
 
@@ -126,7 +127,7 @@ var Thursday = [
 ];
 ```
 
-Write some new tests, but no new functions, to check that your code answers the following questions correctly.
+Write some new tests, but **no new functions**, to check that your code answers the following questions correctly.
 
 * How many coffees were drunk on Thursday?
 * How many teas were drunk on Thursday?
@@ -135,7 +136,11 @@ Write some new tests, but no new functions, to check that your code answers the 
 * Who drank the most tea on Thursday?
 * Who drank the least water on Thursday?
 
-## The Sequel Sequel (extra stuff): Friday
+---
+
+## Extra Stuff
+
+## The Sequel Sequel: Friday
 
 The Science People have sent one last data burst: Friday.
 
