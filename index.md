@@ -156,7 +156,7 @@ var Friday = [
       "name": "Lesego",
       "tea": 4,
       "water": 2,
-      "coffee": 0,
+      "coffee": 0
   },
   {
       "name": "Mdu",
