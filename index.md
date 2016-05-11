@@ -12,19 +12,19 @@ We've been watching how much three people drink for three days. For Science! We'
 ```javascript
 var Monday = [
    {
-       "name": "Mdu",
+       "person": "Mdu",
        "coffee": 5,
        "tea": 0,
        "water": 3
    },
    {
-       "name": "Brenda",
+       "person": "Brenda",
        "coffee": 1,
        "tea": 3,
        "water": 1
    },
    {
-       "name": "Lesego",
+       "person": "Lesego",
        "coffee": 0,
        "tea": 4,
        "water": 2
@@ -33,19 +33,19 @@ var Monday = [
 
 var Tuesday = [
    {
-       "name": "Lesego",
+       "person": "Lesego",
        "tea": 3,
        "water": 1,
        "coffee": 1
    },
    {
-       "name": "Mdu",
+       "person": "Mdu",
        "tea": 0,
        "water": 5,
        "coffee": 7
    },
    {
-       "name": "Brenda",
+       "person": "Brenda",
        "tea": 4,
        "water": 0,
        "coffee": 2
@@ -54,19 +54,19 @@ var Tuesday = [
 
 var Wednesday = [
    {
-       "name": "Brenda",
+       "person": "Brenda",
        "water": 4,
        "coffee": 3,
        "tea": 2
    },
    {
-       "name": "Lesego",
+       "person": "Lesego",
        "water": 4,
        "coffee": 0,
        "tea": 3
    },
    {
-       "name": "Mdu",
+       "person": "Mdu",
        "water": 9,
        "coffee": 8,
        "tea": 2
@@ -107,19 +107,19 @@ The Science People were impressed with our calculations and have sent us some mo
 ```javascript
 var Thursday = [
   {
-      "name": "Mdu",
+      "person": "Mdu",
       "tea": 0,
       "coffee": 5,
       "water": 3
   },
   {
-      "name": "Brenda",
+      "person": "Brenda",
       "coffee": 1,
       "water": 1,
       "tea": 3
   },
   {
-      "name": "Lesego",
+      "person": "Lesego",
       "water": 2,
       "coffee": 0,
       "tea": 4
@@ -147,19 +147,19 @@ The Science People have sent one last data burst: Friday.
 ```javascript
 var Friday = [
   {
-      "name": "Brenda",
+      "person": "Brenda",
       "tea": 3,
       "coffee": 1,
       "water": 1
   },
   {
-      "name": "Lesego",
+      "person": "Lesego",
       "tea": 4,
       "water": 2,
       "coffee": 0
   },
   {
-      "name": "Mdu",
+      "person": "Mdu",
       "water": 3,
       "tea": 0,
       "coffee": 5
