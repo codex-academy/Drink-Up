@@ -31,7 +31,7 @@ Write new function(s) that answer these three questions.
 
 ### Thursday? Thursday!
 
-The Science People were impressed with our calculations and have sent us some more data. They sent it via carrier pigeon, then fax, which was typed out and emailed to us. The data was for Thursday: [data-2](data-2.html).
+The Science People were impressed with our calculations and have sent us some more data. They sent it via carrier pigeon, then fax, which was typed out and emailed to us. The data for Thursday was: [data-2](data-2.html).
 
 Write some new tests, but **no new functions**, to check that your code answers the following questions correctly.
 
