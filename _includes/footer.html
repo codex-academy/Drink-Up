@@ -3,7 +3,7 @@
     <ol>
       {% assign currentpage = page.url %}
       {% for page in site.pages %}
-        {% unless page.url contains ".css" %}
+        {% unless page.url contains ".css" or page.url contains "data" %}
           <li>
             <a href="{{ site.baseurl }}{{ page.url }}" {% if currentpage == page.url %}class = "active"{% endif %}>{{ page.title }}</a>
           </li>
