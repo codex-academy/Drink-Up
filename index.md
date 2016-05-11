@@ -35,41 +35,41 @@ var Tuesday = [
    {
        "name": "Lesego",
        "tea": 3,
-       "water": 1
-       "coffee": 1,
+       "water": 1,
+       "coffee": 1
    },
    {
        "name": "Mdu",
        "tea": 0,
-       "water": 5
-       "coffee": 7,
+       "water": 5,
+       "coffee": 7
    },
    {
        "name": "Brenda",
        "tea": 4,
-       "water": 0
-       "coffee": 2,
+       "water": 0,
+       "coffee": 2
    }
 ];
 
 var Wednesday = [
    {
        "name": "Brenda",
-       "water": 4
+       "water": 4,
        "coffee": 3,
-       "tea": 2,
+       "tea": 2
    },
    {
        "name": "Lesego",
-       "water": 4
+       "water": 4,
        "coffee": 0,
-       "tea": 3,
+       "tea": 3
    },
    {
        "name": "Mdu",
-       "water": 9
+       "water": 9,
        "coffee": 8,
-       "tea": 2,
+       "tea": 2
    }
 ];
 ```
